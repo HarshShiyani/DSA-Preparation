@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/56556849/132181507-d3109611-abf9-43ac-a4b4-f26ed1d5cbab.png)
+
+
 import java.util.*;
 
 public class Pattern1 {
