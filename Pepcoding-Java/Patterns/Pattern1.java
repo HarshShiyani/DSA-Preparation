@@ -1,6 +1,3 @@
-https://github.com/HarshShiyani/DSA-Preparation/issues/1#issue-988889740
-
-
 import java.util.*;
 
 public class Pattern1 {
