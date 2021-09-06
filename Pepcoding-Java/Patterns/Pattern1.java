@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/56556849/132181507-d3109611-abf9-43ac-a4b4-f26ed1d5cbab.png)
+https://github.com/HarshShiyani/DSA-Preparation/issues/1#issue-988889740
 
 
 import java.util.*;
